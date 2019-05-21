@@ -1,7 +1,5 @@
 # SASS sqrt()
 
-![sass-sqrt]()
-
 √Square root function for SASS/SCSS.
 
 [![Ebert](https://ebertapp.io/github/fiskhandlarn/sass-sqrt.svg)](https://ebertapp.io/github/fiskhandlarn/sass-sqrt)
