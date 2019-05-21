@@ -8,15 +8,15 @@
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "√Square root function for SASS/SCSS.",
+  "description": "Square root function for SASS/SCSS.",
   "homepage": "https://github.com/fiskhandlarn/sass-sqrt#readme",
   "keywords": [
     "scss",
     "sass",
     "scss-function",
     "sass-function",
-    "math"
-    "sqrt",
+    "math",
+    "sqrt"
   ],
   "license": "MIT",
   "main": "_sqrt.scss",
