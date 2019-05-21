@@ -16,7 +16,7 @@
     "scss-function",
     "sass-function",
     "math",
-    "sqrt"
+    "square-root"
   ],
   "license": "MIT",
   "main": "_sqrt.scss",
