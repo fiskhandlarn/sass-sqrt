@@ -13,9 +13,10 @@
   "keywords": [
     "scss",
     "sass",
-    "sqrt",
-    "scss-mixins",
+    "scss-function",
+    "sass-function",
     "math"
+    "sqrt",
   ],
   "license": "MIT",
   "main": "_sqrt.scss",
