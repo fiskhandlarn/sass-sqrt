@@ -1,0 +1,8 @@
+styleguide: plataformatec/linters
+engines:
+  fixme:
+    enabled: true
+  scss-lint:
+    enabled: true
+exclude_paths:
+  - node_modules

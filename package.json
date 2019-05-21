@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Oskar Joelson",
+    "email": "oskar@joelson.org"
+  },
+  "bugs": {
+    "url": "https://github.com/fiskhandlarn/sass-sqrt/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "√Square root function for SASS/SCSS.",
+  "homepage": "https://github.com/fiskhandlarn/sass-sqrt#readme",
+  "keywords": [
+    "scss",
+    "sass",
+    "sqrt",
+    "scss-mixins",
+    "math"
+  ],
+  "license": "MIT",
+  "main": "_sqrt.scss",
+  "name": "@fiskhandlarn/sass-sqrt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiskhandlarn/sass-sqrt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
