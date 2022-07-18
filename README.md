@@ -31,4 +31,4 @@ foo {
 
 ## Credits
 
-Copied from (AntiMath)[https://www.antimath.info/css/sass-sqrt-function/]
+Copied from [AntiMath](https://www.antimath.info/css/sass-sqrt-function/)
