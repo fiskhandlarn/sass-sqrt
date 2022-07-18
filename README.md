@@ -1,8 +1,9 @@
+Deprecated, you should use [`math.sqrt`](https://sass-lang.com/documentation/modules/math#sqrt) instead.
+
 # SASS sqrt()
 
 √Square root function for SASS/SCSS.
 
-[![Ebert](https://ebertapp.io/github/fiskhandlarn/sass-sqrt.svg)](https://ebertapp.io/github/fiskhandlarn/sass-sqrt)
 [![Total Downloads](https://img.shields.io/npm/dt/@fiskhandlarn/sass-sqrt.svg)](https://www.npmjs.com/package/@fiskhandlarn/sass-sqrt)
 [![Latest Version](https://img.shields.io/npm/v/@fiskhandlarn/sass-sqrt.svg)](https://www.npmjs.com/package/@fiskhandlarn/sass-sqrt?activeTab=versions)
 [![License](https://img.shields.io/npm/l/@fiskhandlarn/sass-sqrt.svg)](https://www.npmjs.com/package/@fiskhandlarn/sass-sqrt)
